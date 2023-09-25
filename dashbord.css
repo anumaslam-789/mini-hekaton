@@ -1,0 +1,53 @@
+
+body> table{
+    width: 80%;
+    background: #000;
+    background-attachment: fixed;
+    
+}
+table{
+    border-collapse: collapse;
+    background:rgb(6, 6, 6);
+}
+    
+table#crud{
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 857px;
+width: 100%;
+ }   
+    td,th{
+        border: 1px solid grey;
+        text-align: left;
+        padding: 8px 15px;
+    }
+    tr:nth-child(even),table.list thread>tr{
+        background: rgb(59, 30, 30);
+        
+    }
+    input{
+        width: 91%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid rgb(179, 44, 44);
+    border-radius: 4px;
+color: black;}
+
+    form-action---button{
+        background: #eee;
+        padding: 6px 12px;
+        margin: 15px 0 10px;
+        display: inline-block;
+        border: none;
+    border-radius: 30px;
+    color: #000;
+      font-size: 1rem;
+      cursor: pointer;
+
+    }
+    
+    
+    
+    
+    
